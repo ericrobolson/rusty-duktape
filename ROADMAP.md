@@ -1,0 +1,2 @@
+- [ ] Build out ergonomic API for interpreter
+- [ ] Add several examples/tests for interpreter
